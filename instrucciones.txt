@@ -1,0 +1,21 @@
+Para correr el codigo hacer lo siguiente
+
+1. Instalar Dependecias
+
+        npm install
+
+2. Instalar Mocha de manera Global
+
+    npm install -g mocha
+
+3. Instalar 'Chai' la libreria de aserciones
+
+    npm install --save-dev chai
+
+4.Instalar 'Instanbul' para saber la cobertura del codigo
+
+    npm install -g istanbul
+
+5. Instalar 'Sinon' 
+
+    npm install --save-dev sinon

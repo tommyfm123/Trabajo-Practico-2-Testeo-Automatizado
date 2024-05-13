@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^10.4.0",
+    "sinon": "^17.0.2"
+  },
+  "dependencies": {
+    "rewire": "^7.0.0"
+  },
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "type": "module"
+}
